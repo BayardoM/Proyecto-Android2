@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mercados Managua</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_delete">Delete Market</string>
+    <string name="Invalid_null">Campo Necesario</string>
+
+    <dimen name="card_view_horizontal_margin">6dp</dimen>
+    <dimen name="card_view_vertical_margin">4dp</dimen>
+    <dimen name="card_view_height">2dp</dimen>
+</resources>
